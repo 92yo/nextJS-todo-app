@@ -1,5 +1,7 @@
 This is a todo-app built using NextJs, Typescript and Mobx
 
+App is Deployed using Vercel at: https://next-js-todo-app-psi.vercel.app/
+
 ## Getting Started
 
 First, run the development server:
